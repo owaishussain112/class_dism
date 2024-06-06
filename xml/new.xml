@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "ext.dtd" [
+
+    <!ENTITY city "karachi">
+]>
+<company>
+    <departments name="faculty">
+        <employees>
+            <id></id>
+            <name></name>
+
+            <phone></phone>
+
+            <designation></designation>
+            <city>&city;</city>
+
+            <id></id>
+            <name></name>
+            <email></email>
+
+
+            <designation></designation>
+            <city></city>
+        </employees>
+    </departments>
+    <departments name="it">
+        <employees>
+            <id></id>
+            <name></name>
+            <email></email>
+            <phone></phone>
+
+            <designation></designation>
+            <city></city>
+
+        </employees>
+    </departments>
+    <departments name="student-affairs">
+        <employees>
+            <id></id>
+            <name></name>
+            <email></email>
+            <phone></phone>
+
+            <designation></designation>
+            <city></city>
+
+        </employees>
+    </departments>
+
+</company>

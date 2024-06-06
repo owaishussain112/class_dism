@@ -1,0 +1,11 @@
+<!ELEMENT company (departments)*>
+<!ELEMENT departments (employees)>
+<!ELEMENT employees (id,name,(email|phone)*,designation,city)+>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT designation (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+
+<!ATTLIST departments name ID #REQUIRED>
