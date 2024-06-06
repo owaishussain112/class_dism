@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Organizaion>
+    <aptech center="SFC">
+        <DEPARTMENT name="studentAffairs">
+            <Employee id="101">
+                <employeeName>anas</employeeName>
+                <employeeEmail>anas@gmail.com</employeeEmail>
+                <employeePhone>09008976543</employeePhone>
+                <employeeAddress>gulshan-e-hadeed</employeeAddress>
+            </Employee>
+        </DEPARTMENT>
+        <DEPARTMENT name="Addmission">
+            <Employee id="102">
+                <employeeName></employeeName>
+                <employeeEmail></employeeEmail>
+                <employeePhone></employeePhone>
+                <employeeAddress></employeeAddress>
+            </Employee>
+        </DEPARTMENT>
+        <DEPARTMENT name="Faculty">
+            <Employee id="103">
+                <employeeName></employeeName>
+                <employeeEmail></employeeEmail>
+                <employeePhone></employeePhone>
+                <employeeAddress></employeeAddress>
+            </Employee>
+        </DEPARTMENT>
+        <DEPARTMENT name="Examination">
+            <Employee id="104">
+                <employeeName></employeeName>
+                <employeeEmail></employeeEmail>
+                <employeePhone></employeePhone>
+                <employeeAddress></employeeAddress>
+            </Employee>
+        </DEPARTMENT>
+    </aptech>
+</Organizaion>
